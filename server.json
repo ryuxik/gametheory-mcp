@@ -1,0 +1,20 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.ryuxik/gametheory-mcp",
+  "description": "Equilibrium-aware primitives for AI agents — negotiation, auctions, mechanism design. Tier 1 (negotiation, Bayesian particle filter + Rubinstein SPE), Tier 2 (Myerson optimal bid + Vickrey + English auctions), Tier 3 (Gale-Shapley + asymmetric Myerson + Gallego-van Ryzin posted-price). All math runs locally; first-strike commit-reveal lives on api.snhp.dev (needs server-side keys).",
+  "repository": {
+    "url": "https://github.com/ryuxik/gametheory-mcp",
+    "source": "github"
+  },
+  "version": "0.1.1",
+  "packages": [
+    {
+      "registry_type": "pypi",
+      "identifier": "gametheory-mcp",
+      "version": "0.1.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
