@@ -8,4 +8,4 @@ first-strike cryptographic commit-reveal flow that requires server-side
 EdDSA signing.
 """
 
-__version__ = "0.1.1"
+__version__ = "0.1.2"

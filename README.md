@@ -1,5 +1,7 @@
 # gametheory-mcp
 
+mcp-name: io.github.ryuxik/gametheory-mcp
+
 **Equilibrium-aware primitives for AI agents** — negotiation, auctions, mechanism design — exposed over MCP and importable as a Python library.
 
 LLMs are structurally bad at multi-round, opponent-modeling problems with closed-form solutions. This package gives them the math.
